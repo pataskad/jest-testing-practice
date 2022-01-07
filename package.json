@@ -1,0 +1,24 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "A simple project to utilize jest to practice writing tests and follow TDD development strategies.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pataskad/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pataskad/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/pataskad/jest-testing-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.16.7",
+    "jest": "^27.4.7"
+  }
+}
